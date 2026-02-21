@@ -1,5 +1,3 @@
-
-
 def analyze_colors(image_rgb, step=5):
     sampled_img = image_rgb[::step, ::step]
     r, g, b = cv2.split(sampled_img)
