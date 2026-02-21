@@ -1,8 +1,3 @@
-# Generated from: learn_model.ipynb
-# Converted at: 2026-02-12T11:30:52.735Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
