@@ -6,7 +6,7 @@ Deep learning system for automatic phenotype analysis of Chlorella microalgae fr
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/chlorella-analyzer.git
+git clone https://github.com/ivanklimovich19/Chlorella_Phenotype_Analyzer
 cd chlorella-analyzer
 pip install -r requirements.txt
 ```
